@@ -1,0 +1,15 @@
+#EXTM3U
+#EXTINF:-1	
+https://srv5.zcast.com.br/tvcarioca/tvcarioca/chunklist_w788052714.m3u8
+#EXTINF:-2		
+https://frn.rtsp.me/HCga68ldt73RnXUXDcba-w/1638389907/hls/bYTDANDA.m3u8?ip=188.37.216.66
+#EXTINF:-3
+https://5a2b083e9f360.streamlock.net/tvaguaboa2/tvaguaboa2.sdp/chunklist_w292458495.m3u8
+#EXTINF:-4	
+http://live.impresa.pt/live/sicnot/sicnot540p.m3u8
+#EXTINF:-5	
+https://streamer-a03.videos.sapo.pt/live/portocanal/chunklist_w530270279.m3u8
+#EXTINF:-6
+http://live.impresa.pt/live/sic/sic540p.m3u8
+#EXTINF:-7	
+https://video-auth6.iol.pt/live_tvi/live_tvi/edge_servers/tvi-720_passthrough/chunks.m3u8?nimblesessionid=84840658&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMzAvMjAyMSA3OjE2OjI5IFBNJmhhc2hfdmFsdWU9eEMzT00zdnV0NUJhWmxPeTVVOXcwUT09JnZhbGlkbWludXRlcz0xNDQwJmlkPTk2MTJmYTZjLWMwOTUtNDRkYS1hOGQ4LTZlZDhhNWNmNjIzZQ==
